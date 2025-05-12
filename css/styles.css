@@ -1,0 +1,23 @@
+body{
+    background-color: #2e1a52;
+
+.container a{
+    color: white;
+}
+
+
+.bi.bi-amd {
+    color: #fff;
+}
+
+.col-lg-6 {
+    color:#fff;
+}
+
+.my-text {
+    color: #fff !important;
+}
+
+.feature * {
+    color: #fff;
+}
